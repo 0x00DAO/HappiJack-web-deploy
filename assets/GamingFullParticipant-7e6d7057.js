@@ -1,1 +1,0 @@
-import{u as t,l as i,k as a}from"./index-7cab1000.js";function r(){const s=t();return console.log(i(),s),a.jsx(a.Fragment,{children:a.jsx("div",{children:"this is full participant"})})}export{r as default};
