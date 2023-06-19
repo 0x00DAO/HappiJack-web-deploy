@@ -1,1 +1,0 @@
-import{u as t,m as i,l as a}from"./index-f98e2bed.js";function r(){const s=t();return console.log(i(),s),a.jsx(a.Fragment,{children:a.jsx("div",{children:"this is full participant"})})}export{r as default};

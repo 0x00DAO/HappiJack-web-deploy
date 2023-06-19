@@ -1,0 +1,1 @@
+import{u as t,l as i,o as a}from"./index-dec1d75b.js";function r(){const s=t();return console.log(i(),s),a.jsx(a.Fragment,{children:a.jsx("div",{children:"this is full participant"})})}export{r as default};
