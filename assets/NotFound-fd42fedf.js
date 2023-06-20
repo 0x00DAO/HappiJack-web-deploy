@@ -1,1 +1,0 @@
-import{o as e,S as t}from"./index-dec1d75b.js";function o(){return e.jsx(e.Fragment,{children:e.jsx(t,{direction:"vertical",style:{display:"grid",justifyContent:"center",alignContent:"center",height:"calc(100vh - 64px - 64px)"},children:e.jsx("label",{style:{fontSize:30,color:"#52c41a"},children:"Page Not Found."})})})}export{o as default};
