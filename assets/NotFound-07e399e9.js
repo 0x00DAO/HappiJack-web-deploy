@@ -1,0 +1,1 @@
+import{o as e,S as t,C as n}from"./index-ed808f58.js";function r(){return e.jsx(e.Fragment,{children:e.jsx(t,{direction:"vertical",style:{display:"grid",justifyContent:"center",alignContent:"center",height:`${n}`},children:e.jsx("label",{style:{fontSize:30,color:"#52c41a"},children:"Page Not Found."})})})}export{r as default};
